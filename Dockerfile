@@ -12,7 +12,7 @@ COPY . /app
 
 #compile the java program
 
-RUN java Sample
+RUN javac Sample
 
 #execution of the java program
 
